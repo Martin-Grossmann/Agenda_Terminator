@@ -1,0 +1,3 @@
+# requirements.txt - Dépendances du projet Agenda_Terminator
+
+PyQt5>=5.9.2

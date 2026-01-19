@@ -1,0 +1,20 @@
+[
+    {
+        "Jours": "21",
+        "mois": "04",
+        "annee": "Repeat",
+        "Texte": "Anniversaire Julien"
+    },
+    {
+        "Jours": "22",
+        "mois": "06",
+        "annee": "Repeat",
+        "Texte": "Evenement no 3"
+    },
+     {
+        "Jours": "01",
+        "mois": "01",
+        "annee": "2026",
+        "Texte": "Test"
+    } 
+]
